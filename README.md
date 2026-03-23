@@ -58,7 +58,8 @@ A powerful Retrieval-Augmented Generation (RAG) system built with CrewAI, featur
 1. **Clone the repository**
    ```bash
    git clone <your-repo-url>
-   cd pdf_rag
+   cd ai-document-analyzer
+
    ```
 
 2. **Set up Python environment**
@@ -136,7 +137,8 @@ print(result)
 ### Programmatic Usage
 
 ```python
-from pdf_rag.crew import PdfRag
+from ai-document-analyzer
+.crew import PdfRag
 
 # Initialize crew
 crew = PdfRag().crew()
