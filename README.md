@@ -113,6 +113,8 @@ crewai-chat-ui
 
 Access at: http://localhost:4200
 
+![Chat Interface Demo](demo.png)
+
 **Example Queries:**
 - "What is in my knowledge base?"
 - "Research AI LLMs for 2026"
