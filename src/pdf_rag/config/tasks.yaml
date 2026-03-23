@@ -1,0 +1,21 @@
+research_task:
+  description: >
+    Conduct comprehensive research on the given topic. Search through available knowledge sources and vector databases to find relevant information.
+    Focus on finding accurate, detailed, and current information. If the topic relates to the user's profile or preferences, include that context.
+    Provide thorough analysis with multiple perspectives and supporting details.
+  expected_output: >
+    A detailed research summary with at least 10 comprehensive bullet points covering various aspects of the topic,
+    including background, current status, trends, challenges, and future implications. Include specific facts, data, and insights.
+  agent: researcher
+
+reporting_task:
+  description: >
+    Analyze the research findings and create a comprehensive, well-structured report.
+    Expand on each key finding with detailed explanations, examples, and implications.
+    Ensure the report is informative, well-organized, and provides actionable insights.
+    Include any relevant context from the user's knowledge base or preferences.
+  expected_output: >
+    A fully detailed report with multiple sections, each containing in-depth analysis and explanations.
+    Use proper markdown formatting with headers, subheaders, and structured content.
+    Provide comprehensive coverage of the topic with practical insights and recommendations.
+  agent: reporting_analyst
