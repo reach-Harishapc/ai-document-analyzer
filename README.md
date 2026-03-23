@@ -1,4 +1,4 @@
-# PDF RAG Crew 🤖📚
+# AI-Document-Analyzer
 
 A powerful Retrieval-Augmented Generation (RAG) system built with CrewAI, featuring a user-friendly chat interface for intelligent document analysis and research.
 
